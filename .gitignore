@@ -1,10 +1,11 @@
-!/test.sh
-!/src
-!/target
-!/build
-!/node_modules
+test.sh
+src
+target
+build
+bin
+node_modules
 .idea
 .vscode
 tmp
 *.log
-!/2024.json
+2024.json
